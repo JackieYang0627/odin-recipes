@@ -1,2 +1,2 @@
-# odin-recipes-
+# odin-recipes
 Creating a recipe website(HTML)
